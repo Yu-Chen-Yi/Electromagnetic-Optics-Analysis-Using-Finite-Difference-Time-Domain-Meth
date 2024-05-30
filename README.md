@@ -1,11 +1,18 @@
 # Electromagnetic-Optics-Analysis-Using-Finite-Difference-Time-Domain-Meth
-# 项目名称
 
-这是项目的描述。
-
-## 功能特性
-
-- 特性 1
+## Homework
+Homework #1 - 1D FDTD
+Homework #2 - 1D FDTD (Perfectly absorbing conditions)
+Homework #3 - 1D FDTD (Dirichlet boundaries)
+Homework #3 - 1D FDTD (Dirichlet numerical dispersion)
+Homework #3 - 1D FDTD (Perfectly absorbing boundaries)
+Homework #3 - 1D FDTD (Without TF/SF source)
+Homework #4 - 1D FDTD (Anti reflection)
+Homework #5 - 1D FDTD (Distributed Bragg reflector)
+Homework #6 - 2D FDTD (Dirichlet boundary conditions)
+Homework #6 - 2D FDTD (Periodic boundary conditions)
+Homework #6 - 2D FDTD (PML boundary conditions)
+HW2 - 
 - 特性 2
 - 特性 3
 
