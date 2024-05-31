@@ -24,3 +24,4 @@
 ### Homework #7 - 2D FDTD (PML boundary conditions)
 [![Watch the video](https://img.youtube.com/vi/OhHhlNRbeHw/0.jpg)](https://www.youtube.com/watch?v=OhHhlNRbeHw)
 ### Term Project - Blazed Grating
+[![Watch the video](https://img.youtube.com/vi/aLfAqsHEvlc/0.jpg)](https://www.youtube.com/watch?v=aLfAqsHEvlc)
